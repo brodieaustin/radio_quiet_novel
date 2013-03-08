@@ -1,6 +1,6 @@
-The Radio Quiet Zone
+#The Radio Quiet Zone#
 
-A DIVORCE
+##A DIVORCE##
 
 What was the follow up to "I'm leaving you?" He could have said any number of things--and maybe he wanted to any one of them--but didn't. But she didn't want him to say anything. For both of them, the words and the finality they conveyed were a relief. And why not? Martha had lived with his disbelief for so many years now that it felt good to have a message sent from sender to receiver and just be...received.
 
@@ -55,7 +55,7 @@ The path outlined by the plan only led as far as the loding house in Ruston. Bey
 Had she asked, Greg probably could have outlined other similarities between Martha and the woman he had known briefly as his mother-in-law. But he never bothered to do so; and she had never bothered to ask.
 
 
-WAKING UP IN METAL
+##WAKING UP IN METAL##
 
 The echo of her own snores still startled her in the morning sometimes. The cot she slept on creaked, and sometimes, in throws of a nightmare, she would lash out and begin banging of the metal lined walls of the chamber were she was forced to sleep now. But when the banging stopped and she became lucid again Deana could only the hear muffled and still quiet around her. Then a dog would bark--maybe from next door or maybe a few block away. She might hear the faint sounds of a car passing by. The quiet came back and she would fall asleep again.
 
@@ -92,7 +92,7 @@ In the top drawer of that dresser, she found a gold and blue glossy pamphplet th
 Inside, though, the pamphlet advertised a refugee from the epidemic known as "wirelss sickness." The zig-zagging bulleted list of symptoms matched her own. And the photographs of the refuge being advertised seemed perfect to her. As much as she loved her father's home and the land and the memories of the bomb shelter. Deana knew that the promise held out by this pamphlet, the promise of a place called Ruston and community called "Salubrious", would sustain her in the present and future.
 
 
-SALUBRIOUS
+##SALUBRIOUS##
 
 The problem never was having an idea, a vision, and momentum. Dr. Conroy could beam from one inspiration to the next with little hesitation. But he rarely followed thourhg and never completed anything. Really, there wasn't a thing in his life that he had completed. Of course, this didn't keep him from printing "Dr." or "MD" by his name. And he could have card and signs and posters and brochures printed by the hundreds and thousands. He was, in fact, very task oriented and often ruthlessly efficient at the small things. The boxes and piles of literature in his living room spoke eloquently to this point.
 
@@ -117,7 +117,7 @@ The doctor often scanned real estate listings on the internet. He felt that it w
 The man who visted his office, a listing for a farm, two men talking space and telescopes in a coffee shop--these were the ingredients that combined together in his mind and set off a series of images, little fragments of narratives--almost small movies playing out then fading out in his mind, and phrases, slogans, whole speeches that came to him. Suddenly the word "salubriuos" came to mind. He walked over to a book shelf in his office where, next to a DSM, he had an old red dictionary. He looked the word up: favorable to or promoting health or well-being.
 
 
-FINDING SALUBRIOUS
+##FINDING SALUBRIOUS##
 
 A phone call in the middle of the night woke Dr. Conroy up. He answered and learned that he was being evicted from the building that housed his office, which housed him as well most of the time. His landlord was really more of a sub-contractor, if such a thing exists, of some owner who had long since moved to Palm Beach and may have been dead. But the building was being "condemned" and torn down for construction. For most of us, this kind of news would likely rattle us out of our plans. Days might go fueled by anxiety and despair. Dr. Conroy accepted these kinds of "adjustments" as a matter of course. 
 
@@ -178,7 +178,7 @@ The doctor took  his wallet and replaced it in his back pocket. He ended this in
 As he left, the doctor felt very inspired by this meeting. An imaginative man like the doctor needed his imagination to be fired once and a while. The man with the stub for a finger certainly did that. Most people, you or I, for instance, probably would have counted the money in their wallet or checked to see that an ID or a credit card was still there. But it never occured to the doctor to check. He knew the difference between petty thiefs and inspired criminals. This man's madness probably needed poetry to express its true sound and form.
 
 
-THE FIRST REFUGEE
+##THE FIRST REFUGEE##
 
 His money had come to his second or third hand through the winding branches of the family tree. He had inherited a steady flow of dividends from savvy investments in oil companies and chemical companies in the early 20th century by a great uncle. He was one of several "heirs" who now benefited from the thrift and frugality of this great uncle (or so the story went). Whether it was rot in the roots or instablity in the branches, the money that flowed from their ancestor hardly bound the recipients together into something called a family. Anthony Charles, in other words, was not a family man.
 
@@ -257,7 +257,7 @@ Strangley, the boy didn't look disappointed. "My mom said that you work with the
 The boy turned back to retrieve his bike and return to town. As he walked down the road, the boy seemed like an emissary to his people, an emissary to deliver the news that this man was not the telescope man. And if that was the case, whay kind of man was he?
 
 
-IN THE AIRPORT
+##IN THE AIRPORT##
 
 Greg had little to say the last night of his dinner duty. Martha's last day at work was two days earlier. She had been preoccupied with her preparations to leave--oil changes, grocery shopping, and trips to the Salvation Army. She was only taking a backpack of clothes with her to start her new life. Greg still didn't know exactly where she would be living, who she would be living with. In fact, he didn't ask her any question. Following along with the theme of his acceptance of her condition, he didn't comment on this uncertainty either.
 
@@ -304,8 +304,6 @@ With the dinner dishes clean, Greg carried her bag down the car and waited for M
 "Mom, I really have to do. Greg is waiting."
 
 "That's the least of his worries right now."
-
-&&
 
 "It will be fine mom. I just...I just need to do this."
 
@@ -368,7 +366,7 @@ Martha finally arrived at her gate, a little wobbly, but more coherent than befo
 She finally found her seat and got her carryon bag stowed away. The plan pushed back from the gate and lumbered to the runway. When the jet engines finally roared to life and propelled the plane in the sky, she fell asleep for the duration of the flight.
 
 
-ON THE ROAD
+##ON THE ROAD##
 
 This wasn't the first time that Dr. Conroy had slept in his car. It was, however, that persistent tapping at the window woke him up. The temperatures must have dropped over night and left his windows foggy and beaded with dew. As he became more conscious of his surroundings and the situation, he sat for a moment to seriously consider whether or not to roll down the window. He was tucked into the back seat of the car with a pile of blankets on top of him--not exactly mobile. Would he be able to dart into the front seat and get away?
 
@@ -453,7 +451,7 @@ The only person that worked there who wasn't 18 and wasn't 80 was herding carts 
 Dr. Conroy and Henry were in the car and driving away. Dr. Conroy hesitated only at the turn off of the access road onto the sliver of highway that ran back to town. He wanted desperately to be free of his passenger. Their relationship was starting to feel more like a visitation to the doctor than anythign else. Between skipping out on his office space and their recent encounter with Tammy--or Tammy's mother to be more precise--going back wasn't an option. So, he made that turn to Salubrious, to the quiet zone, though preoccupied mostly by how he could ditch this strange man named Henry.
 
 
-A MAN NAMED GREG MALONEY
+##A MAN NAMED GREG MALONEY##
 
 "You must be Greg," the rail thin store manager at the Starbucks greeted him from behind the espresso machine. "Have a seat, I'll be with you in a minute." Greg silently took a seat by the window and scanned the faces in the coffee shop. From the outside this man named Greg Maloney seemed impossibly bored. You wouldn't think that there could be anything interesting going on inside of him. He normally had a sleepy look about him. His stubble always seem to resurface within an hour or so of  shaving. His eyes had a downturned, tear drop shape to them. And recently, he  hadn't bothered to keep up his clothes very well. All of this compounded by the fact that he rarely smiled these day.
 
@@ -514,7 +512,7 @@ With the weekend over, Greg woke up early in the morning and drove to work. The 
 The Greg spent most of that day sweeping and watching. He saw the store manager pull countless shots and tried to follow the frantic tapping of fingers at the point of sale system. He left work with his finger tinted brown from the coffee and smelling like roasted beans.
 
 
-UNDOING THE METAL CHAMBER
+##UNDOING THE METAL CHAMBER##
 
 As is often the case, a series of seemingly unconnected events set in motion other events that caused Deanna to leave her father's home behind. This wouldn't happen immediately, but the right set of events, fired in the order in which they did, in fact, fire caused this to happen. The first of these events was an unfortunate tagging incident. In the middle of the night, someone, most likley an angry child, Deana thought, had crept around her sleeping chamber and sprayed up one side of chamber. 
 
@@ -661,7 +659,7 @@ She didn't know. Where would she go? This had been the only place she had ever k
 "Okay, that's a deal." And with that Deana lit fire to the chamber and most of the back of her father's house. Deana's brother received a call a few days later from the sheriff's office informing him about the fire and that his sister had disappeared. Maybe he had wanted to say, "Don't look to hard," but mildly replied, "I'll let you know if I hear anything."
 
 
-INSIDE THE QUIET ZONE
+##INSIDE THE QUIET ZONE##
 
 "Mr. Jason, Mr. Jason, wake up!" Jason sat up in his conference room chair and let the conference walls and the conference room table and the conference room light overtake him. He was, needless to say, in a conference room. Had he not been asleep in the conference room, he probably would come come to this realization sooner. Jason looked up and saw the night janitor, a Polish man named Marek, whom everyone called Mark, but Jason called Marek, standing over him. "You're sleeping in the conference room again, Mr. Jason."
 
@@ -878,7 +876,7 @@ When the man named Anthony reappeared, he was dressed. "You're car is in the dri
 Jason took this as an obvious invitation to leave and did so gladly. He returned home hoping that the rest of the weekend would be a little less eventful than this very strange day.
 
 
-LOST IN LOUISVILLE
+##LOST IN LOUISVILLE##
 
 Dr. Conroy had not know how much longer he could tolerate Henry. The man had nearly managed to get him arrested on two occasions, not counting the little chase scene at the Wal-Mart. Henry had been hit during a bar fight, had stolen a pack of cigarette and probably made countless women uncomfortable along the way. Yet Dr. Conroy kept picking his traveling companion off of the floor and getting him back in the car. 
 
@@ -992,7 +990,7 @@ Unfortunately for the doctor, he imagined troubel taking a variety of forms betw
 It did cross the doctor's mind how odd it would be to start a gree hous ...
 
 
-THE MAN WITH THE WHITE HAT
+##THE MAN WITH THE WHITE HAT##
 
 For the first year that he lived in the quiet zone, Anthony felt very at peace. Almost daily he had visions of himself becoming a real man of the country. He bought an old brown and yellow pickup truck from a neighbor whose farm was being foreclosed. Anthony parked the pickup next to his BMW and felt very satisfied with it.From the army and navy store in town, he bought hiking boots and camping equipment, deciding that when the weather was warmer, he would take a camping trip.
 
@@ -1121,7 +1119,7 @@ The man in the white cowboy hat took off his hat to reveal a heavy skull and clo
 "I guess that I do," Anthony said.
 
 
-OFF THE BUS
+##OFF THE BUS##
 
 When she finally got off the bus in Ruston, Deana was cranky, tired, and ready to not be on a bus. Fortunatley for her, the driver was feeling the same way and nearly made her get off 500 miles back, 200 miles back, and 20 miles back. But Deana had managed to settle down enough to get through those last 20 miles and arrive in Ruston.
 
@@ -1322,7 +1320,7 @@ Deana thought back through all the instances of people trying to deny her things
 "Good, I feel better about that already. Let's head back for dinner."
 
 
-MEETING THE FIRST REFUGEE
+##MEETING THE FIRST REFUGEE##
 
 When she first arrived in Ruston, Martha stayed in a small hotel at the center of town. She sat in the even smaller room looking out of the window, watching people meandering on the sidewalk, watching an occasional car pass by, getting a feel for the pace of life in this new place. The pace certainly was different from the city. Everyone and everything moved so much slower here.
 
@@ -1571,7 +1569,7 @@ People were streaming onto the street, making it difficult for the fire trucks t
 Martha lost track of events as soon as the theater owner fell. Anthony must have whisked her outside because she gathere her wits again laying on a bed in a large bedroom somewhere she didn't recognize. She went into the bathroom ajoining the room and washed her face. Her hand was bandaged, but throbbed with pain. She went back and lay down on the bed. Laying there she realized that it had been a while since she slept in a really nice bed. The firm mattress lulled her into a very deep sleep.
 
 
-THE CALL FROM INSIDE THE BAR
+##THE CALL FROM INSIDE THE BAR##
 
 For the next month or so, Jason got back on track with his work. He was alert while working in the lab, got his reports done, on time. He only had a looming event on the horizon to deal with at this point, which was a presentation to give in front of some of the senior researchers at the lab. He would have to present his findings and make a compelling case about why his time there so far had been well-spent. 
 
@@ -1743,7 +1741,7 @@ Why the man in the white hat was in the bar calling him from a pay phone, he had
 "Not at all."
 
 
-HENRY IN LOVE
+##HENRY IN LOVE##
 
 Dr. Conroy was hesitant to call Salubrious a success. There were seven people living there right now under his care, eight if you included Henry. Losing the woman named Martha to that other refugee had been a set back for the doctor personally, but he recovered from the disappointment and kept his focus trained on Salburious. The patients that he tended to needed his attention and his care. He needed them to keep his keep his vision going.
 
@@ -1972,7 +1970,7 @@ The doctor dragged Henry to the front door and tossed him out onto the porch. "I
 Henry spit at him, picked himself up off of the porch and wobbled his way through the yard and down the street. The doctor had no idea where he would go and didn't care at that moment either.
 
 
-A PROMOTION
+##A PROMOTION##
 
 Greg Maloney had been true to his word. He had put his head down and worked hard at the coffee shop. He always showed up on time, had the store ready to open, and greeted the first customers of the day with a boundless good cheer. He learned people's names and greeted them like old friends when they came in the shop. He prepared drinks with a care and attention to detail that made him the favorite of everyone who truly cared about coffee.
 
@@ -2104,7 +2102,7 @@ The man stopped the cart suddenly, pitching Greg forward. "Then why else are you
 The man sped off in his cart, leaving Greg there to wonder about the strangeness of this place called Ruston.
 
 
-FINDING MARTHA
+##FINDING MARTHA##
 
 Since arriving in Ruston and settling in, Martha's life had taken on a very unexpected character. To many she was like the princess of Ruston, of the new Ruston that was being rebuilt in the image of the refugees who flooded the town. It seemed to her that every week she was expected to meet and greet with more and more people. 
 
@@ -2201,7 +2199,7 @@ he began running his hands under her tight sweatshirt, up her stomach and over h
 As he groped her and kissed her, she reached in the back pocket of her vest, drew out the pocket knife, leaned back and began stabbing him in the chest. She stabbed him and stabbed him. He cried out and tried to fight her off, but she was fierce and determined. Her stabbing was as persistent and persuasive as her kissing. He was bloody, but finally he was dead, leaving Martha to figure out what to do with his body.
 
 
-THE HEAT CLOSES IN
+##THE HEAT CLOSES IN##
 
 As it approached midnight, Jason decided to take a break and get some fresh air outside. The small telescope that had been his burden since arriving in the radio quiet zone was almost finished thanks to the infusion of cash from the "mystery donor" who had taken an interest in his project. Dane, the surly tech, also had a new found, though somewhat begrudging, respect for Jason too. Boards were soldered quickly and with amazing artistry. The metal rods and fixtures he needed were cut with precision and neatly piled and ready and ready to be added to the machine.
 
@@ -2350,7 +2348,7 @@ When he got back to his apartment, he was surpsied to find his door unlocked, bu
 With this enigmatic message, the man in white cowboy hat left Jason alone in his apartment.
 
 
-THE END OF SALUBRIOUS
+##THE END OF SALUBRIOUS##
 
 It was strange to think that everything about Salubrious would change after Henry and Deana left. Rather than calming down, the place seemed to become more and more unwound. The people who had come there to be cured started to leave one by one. Rita was the first to leave. She bothered the doctor about it constantly for several days before she finally left.
 
@@ -2487,7 +2485,7 @@ Leaving Dr. Conroy like that, he kept walking, and would continue to walk until 
 Dr. Conroy was ready to leap. Meanwhile he was walking faster and faster down the road, careful to stay on the hard pavement and not veer off on to the side. He could hear Dr. Conroy leap, and he leapt and died there in the painless way that he predicted on the hood of his car.
 
 
-LEAVING THE LAST REFUGEE
+##LEAVING THE LAST REFUGEE##
 
 Martha knew that she would have to leave now. She didn't expect, however, to be escorted out of the radio quiet zone by the man in the white hat. He found her in the horse barn, sobbing with her head up against her favorite horse. He stood outside the pen until she noticed him. She walked meekly past him and headed for the yellow truck.
 
