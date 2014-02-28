@@ -3,6 +3,8 @@ layout: novel
 title: Radio Quiet Zone
 ---
 
+# Radio Quiet Zone
+
 ## A DIVORCE
 
 What was the follow up to "I'm leaving you?" He could have said any number of things--and maybe he wanted to any one of them--but didn't. But she didn't want him to say anything. For both of them, the words and the finality they conveyed were a relief. And why not? Martha had lived with his disbelief for so many years now that it felt good to have a message sent from sender to receiver and just be...received.
