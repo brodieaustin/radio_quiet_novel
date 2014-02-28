@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <meta type="author" content="{{ site.author }}">
+    <meta type="description" content="{{ site.description }}">
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+    <style>
+        body{font-size: 20px; font-family: 'Vollkorn', serif; color: #333; line-height: 1.4;}
+        pre,code{font-family: inherit; font-style: oblique;}
+        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px; z-index: 500;}
+        .site-header a {text-decoration: none;}
+        .site-title {float: left; margin: 0; margin-right: .5em; font-size: 100%; font-weight: normal;}
+        .site-meta{float: left; margin-left: .5em; margin-right: .5em; color: #888;}
+        .word-count-data{margin-left: .5em;}
+        .site-title a {color: #333;}
+        .site-title a:hover {color: #aaa;}
+        .buttons{margin-bottom: 1em;}
+        .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #aaa; color: #333; font-family: inherit; font-size: inherit; cursor: pointer;}
+        .button:hover{background-color: #eee;}
+        .button-no-back{background-color: transparent;}
+        #save-bookmark{float: right; margin-top: 8px;}
+        .content{width: 50%; max-width: 700px; margin: 0 auto; padding: 72px 0;}
+        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 1000;}
+        #show-meta{display: none;}
+        .inline-chart{margin-right: 1em;}
+        .inline-chart>canvas{vertical-align: text-top !important;}
+        .icon-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
+        .novel h1{padding-bottom: 6px; font-size: 46px; border-bottom: 1px solid #ddd;}
+        @media screen and (max-width: 860px){
+            .content{width: 80%;}
+        }
+        @media screen and (max-width: 600px){
+            .site-header{height: auto;}
+            .site-meta{display: none; width: 96%;position: absolute;left: 0;margin-left: 0;padding: 0 2%;background-color: #fff;border-bottom: 1px solid #ddd; z-index: 200;}
+            #show-meta{display: inline-block;}
+            .content{width: 96%;}
+            pre, code{word-wrap: break-word;}
+        }
+        @media print{
+            body{font-size: 13px;}
+            .site-header{display: none;}
+            .content{width: 100%; }
+            .novel h2{page-break-before: always; }
+            .novel h2#chapter_1{page-break-before: none;}
+        }
+    </style>
+
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <button id="show-meta" class="button button-no-back">
+            <span class="icon-dot"></span>
+            <span class="icon-dot"></span>
+            <span class="icon-dot"></span>
+        </button>
+        <div class="site-meta">{{ site.author }}, {{ site.pub_year }} <span class="word-count-data">{{ page.content | number_of_words }} words <span class="inline-chart inline-bar"></span></span></div>
+        <button id="save-bookmark" class="button">Bookmark</button>
+    </header>
+    <div class="content">
+        <article class="novel">
+            {{ content }}
+        </article>
+    </div>
+    <div class="alert" id="resume">
+        <p>Do you want to pick up reading where you left off last time?</p>
+        <div class="buttons">
+            <button id="confirm-ok" class="button">Ok</button>
+            <button id="confirm-cancel" class="button">Cancel</button>
+        </div>
+    </div>
+    <div class="alert" id="saved">
+        <p>Bookmark saved</p>
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <!--<script src="js/jquery.viewport.js"></script>-->
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/jquery.sparkline.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        
+        init();
+        var wc_counts = [];
+        var wc_totals = [];
+        wc_counts = [0];
+        wc_totals = [0];
+
+        var init = function(){
+            var i = $.cookie('bookmark');
+        
+            if (i){
+                $('#resume').slideDown();
+                $('#confirm-ok').click(function(){
+                    $(document).scrollTop(i);
+                    $('#resume').slideUp();
+                });
+                $('#confirm-cancel').click(function(){
+                    $('#resume').slideUp();
+                });
+                
+                $.removeCookie('bookmark');
+            }
+        }
+
+        init();
+
+        $.getJSON('2011.json', function(data){
+            $.each(data.wchistory.wordcounts.wcentry, function(index, value){
+                console.log(value)
+                wc_counts.push(parseInt(value.wc));
+            });
+            /*for (i = 1; i < wc_counts.length; i++){
+                wc_totals.push(wc_counts[i] + wc_totals[i-1]);
+            }*/
+            $('.inline-bar').sparkline(wc_counts, {type: 'line', height: '20px', spotColor: false, minSpotColor: false, maxSpotColor: false, lineColor: '#888', fillColor: false});
+        });
+
+        $('#save-bookmark').click(function(){
+            var i = $(document).scrollTop() + $('.site-header').height();
+            $.cookie('bookmark', i);
+            $('#saved').slideDown().delay(3000).slideUp();
+            
+            return false;
+        });
+
+        $('#show-meta').click(function(){
+            $(this).next('.site-meta').slideToggle();
+        })
+        
+    });
+ </script>
+</body>
+</html>
